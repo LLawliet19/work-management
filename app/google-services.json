@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "946515884386",
+    "firebase_url": "https://pro-doctor-default-rtdb.firebaseio.com",
+    "project_id": "pro-doctor",
+    "storage_bucket": "pro-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946515884386:android:4b59595a2693111fda543b",
+        "android_client_info": {
+          "package_name": "com.example.SDPTask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946515884386-n653nvgosk29qnd0ipr8952l7mag0532.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmXv_YxG7e9TBD3Moya1QC7knF-EBJmEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946515884386-n653nvgosk29qnd0ipr8952l7mag0532.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
